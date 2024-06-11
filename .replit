@@ -1,0 +1,7 @@
+modules = ["java-graalvm22.3"]
+run = "git"
+[nix]
+channel = "stable-23_11"
+
+[deployment]
+run = ["sh", "-c", "git"]
