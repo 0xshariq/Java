@@ -1,4 +1,4 @@
-// Print integer value
+// Print integer value given by the user's input
 import java.util.*;
 public class Input {
   public static int input(String args[]) {
